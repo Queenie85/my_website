@@ -1,0 +1,29 @@
+.titleContainer {
+    margin-top: 5%;
+    text-align: center;
+}
+
+.iconLinkContainer {
+    text-align: center;
+}
+
+.iconLink {
+    margin: 0 1% 0 1%;
+}
+
+.formContainer {
+    margin: 3% 10% 3% 8%;
+}
+
+.formIconColor {
+    color: rgba(0,0,0,.25);
+}
+
+.submitButton {
+    width: 100%;
+}
+
+.alertMessage {
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
